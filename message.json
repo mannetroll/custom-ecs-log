@@ -1,0 +1,14 @@
+{
+  "@timestamp" : "2024-03-25T20:56:40.283Z",
+  "log.level" : "INFO",
+  "message" : {
+    "number" : 1024,
+    "flag" : true
+  },
+  "alces.action" : "create",
+  "alces.env" : "prod",
+  "alces.flag" : "true",
+  "counter" : 4,
+  "process.thread.name" : "main",
+  "log.logger" : "com.mannetroll.EcsApp"
+}
